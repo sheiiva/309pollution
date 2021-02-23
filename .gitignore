@@ -1,0 +1,21 @@
+############################################
+#                MATHEMATICS               #
+############################################
+#                                          #
+#           COUTRET-ROZET Corentin         #
+#                                          #
+#           Project : 309pollution         #
+#                                          #
+############################################
+
+*__pycache__
+*vscode*
+tmp
+
+# PYTESTS
+htmlcov
+.coverage
+.pytest_cache
+
+# BINARY
+309pollution
